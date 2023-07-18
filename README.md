@@ -1,16 +1,9 @@
-# music_player
+# Music Player Demo
 
-A new Flutter project.
+![musicPlayer_demo](https://github.com/Faridsamadi/Flutter_demo/assets/122729769/de0d944f-53c4-4982-b9c0-29e9b58b77cc)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A Tutorial project done by junior flutter developer "Farid Samadi"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tutorial author "Mitch Koko"
